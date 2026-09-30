@@ -1,9 +1,11 @@
 [package]
 name = "beta-test-framework"
 version = "0.1.0"
-description = "A Rust library for Beta Test Framework"
+description = "Beta Test Framework — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/beta-test-framework"
+repository = "https://github.com/SuperInstance/beta-test-framework"
 edition = "2021"
+
+keywords = ["beta-test-framework"]
 
 [dependencies]
